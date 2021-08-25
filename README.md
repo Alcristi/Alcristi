@@ -1,7 +1,9 @@
-### HI! I'M Allan Nascimento
+## HI! I'M Allan Nascimento
 
-- 🌱 I’m currently learning Reverse Engineering
-- 😄 Pronouns: HE/HIS
+### About me
+- 🧙🏻‍♂️ I’m currently learning Software Engineering as a Cadet at [42 São Paulo](https://www.42sp.org.br/)
+- 🌱 I’m currently learning Reverse Engineering and English 
+- 😄 Pronouns: He/His
 
 <div>
   <a href="https://github.com/Alcristi">
