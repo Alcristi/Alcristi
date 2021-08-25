@@ -1,18 +1,18 @@
-## HI! I'M Allan Nascimento
+## HI! I'm Allan Nascimento
 
 ### About me
-- 🧙🏻‍♂️ I’m currently learning Software Engineering as a Cadet at [42 São Paulo](https://www.42sp.org.br/)
-- 🌱 I’m currently learning Reverse Engineering and English 
-- 😄 Pronouns: He/His
+#### - 🧙🏻‍♂️ I’m currently learning Software Engineering as a Cadet at [42 São Paulo](https://www.42sp.org.br/)
+#### - 🌱 I’m currently learning Reverse Engineering and English 
+#### - 😄 Pronouns: He/His
+
+<p align="center" display ="block" width="100%"><img width="100%" src="https://badge42.herokuapp.com/api/stats/alcristi?cursus=42cursus&privacyEmail=true&privacyName=true&darkmode=true"> </p>
 
 <div>
   <a href="https://github.com/Alcristi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alcristi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alcristi&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-<p align="center" display ="block" width="100%"><img width="100%" src="https://badge42.herokuapp.com/api/stats/alcristi?cursus=42cursus&privacyEmail=true&privacyName=true"> </p>
-  
+    
   ##
   
 <div style="display: inline_block"><br>
