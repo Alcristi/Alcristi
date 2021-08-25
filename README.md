@@ -11,6 +11,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alcristi&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+<p align="center" display ="block" width="100%"><img width="100%" src="https://badge42.herokuapp.com/api/stats/alcristi?cursus=42cursus&privacyEmail=true&privacyName=true"> </p>
+  
   ##
   
 <div style="display: inline_block"><br>
