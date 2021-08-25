@@ -1,11 +1,15 @@
-## HI! I'm Allan Nascimento
+## Hello, Allan Nascimento here! 
 
 ### About me
-#### - 🧙🏻‍♂️ I’m currently learning Software Engineering as a Cadet at [42 São Paulo](https://www.42sp.org.br/)
-#### - 🌱 I’m currently learning Reverse Engineering and English 
-#### - 😄 Pronouns: He/His
 
+#### - 🧙🏻‍♂️ I’m currently studying Software Engineering as a Cadet at [42 São Paulo](https://www.42sp.org.br/)
+#### - 📖 I’m currently learning Reverse Engineering and English 
+#### - 🌎 Love travelling 
+#### - 😄 Pronouns: He/His
+---
 <p align="center" display ="block" width="100%"><img width="100%" src="https://badge42.herokuapp.com/api/stats/alcristi?cursus=42cursus&privacyEmail=true&privacyName=true&darkmode=true"> </p>
+
+---
 
 <div>
   <a href="https://github.com/Alcristi">
@@ -13,7 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alcristi&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
-  ##
+  ---
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Allan-Assembly" height="30" width="40" src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610">
