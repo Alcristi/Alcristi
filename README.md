@@ -7,9 +7,6 @@
 #### - 🌎 Love travelling 
 #### - 😄 Pronouns: He/His
 ---
-<p align="center" display ="block" width="100%"><img width="100%" src="https://badge42.herokuapp.com/api/stats/alcristi?cursus=42cursus&privacyEmail=true&privacyName=true&darkmode=true"> </p>
-
----
 
 <div>
   <a href="https://github.com/Alcristi">
